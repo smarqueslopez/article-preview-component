@@ -1,0 +1,28 @@
+{
+  "name": "article-preview-component",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Article preview component",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w styles/scss -o styles --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarqueslopez/article-preview-component.git"
+  },
+  "keywords": [
+    "article-preview-component",
+    "challenge-solution-code",
+    "frontend-mentor-challenge"
+  ],
+  "author": "smarqueslopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smarqueslopez/article-preview-component/issues"
+  },
+  "homepage": "https://github.com/smarqueslopez/article-preview-component#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
